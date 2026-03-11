@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Pro",
+  "description": "A full-stack AI-powered technical interview practice platform using Gemini and the MERN stack.",
+  "requestFramePermissions": ["microphone"]
+}
