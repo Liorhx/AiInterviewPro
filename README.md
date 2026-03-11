@@ -98,7 +98,7 @@ AI-Interview-Platform
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-interview-platform.git
+git clone https://github.com/Liorhx/ai-interview-platform.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
@@ -149,7 +149,7 @@ Create a `.env` file in the backend folder.
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 GEMINI_API_KEY=your_google_ai_api_key
-PORT=5000
+APP_URL=frontend_connection
 ```
 
 ---
